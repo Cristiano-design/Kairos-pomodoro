@@ -14,18 +14,18 @@
 .cyclesDot {
   width: 2rem;
   height: 2rem;
-  background-color: var(--primary);
+  background-color: var(--short-break-time);
   border-radius: 50%;
 }
 
 .workTime {
-  background: var(--warning);
+  background: var(--foco-energy);
 }
 
 .shotBreakTime {
-  background: var(--primary);
+  background: var(--short-break-time);
 }
 
 .longBreakTime {
-  background: var(--info);
+  background: var(--long-break-time);
 }

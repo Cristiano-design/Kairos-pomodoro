@@ -9,8 +9,12 @@
   --gray-800: #181f2e;
   --gray-900: #0a0f1a;
 
+  --foco-energy: #0077b6;
+  --short-break-time: #00b894;
+  --long-break-time: #6c63ff;
+
   --primary-light: #4de7b7;
-  --primary: #0da170;
+  --primary: #ffd60a;
   --primary-dark: #065f46;
 
   --link-color: #10b981;
@@ -36,7 +40,7 @@
   --text-disabled: #aab3cc;
 }
 
-:root[data-theme='light']{
+:root[data-theme='light'] {
   --gray-100: #0a0f1a;
   --gray-200: #181f2e;
   --gray-300: #272f43;
@@ -47,7 +51,7 @@
   --gray-800: #cdd3e1;
   --gray-900: #e6e9f0;
 
-  --text-default:#0a0f1a;
+  --text-default: #0a0f1a;
   --text-muted: #272f43;
 
   --link-color: #0b8a60;
