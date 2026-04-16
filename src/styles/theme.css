@@ -8,14 +8,16 @@
   --gray-700: #272f43;
   --gray-800: #181f2e;
   --gray-900: #0a0f1a;
+  --linear-gradient: linear-gradient(180deg, #020617 0%, #0b1120 100%);
 
-  --foco-energy: #0077b6;
-  --short-break-time: #00b894;
-  --long-break-time: #6c63ff;
+  --foco-energy: rgb(239, 68, 68);
+  --short-break-time: rgb(34, 197, 94);
+  --long-break-time: rgb(59, 130, 246);
 
   --primary-light: #4de7b7;
-  --primary: #ffd60a;
+  --primary: #d4af37;
   --primary-dark: #065f46;
+  --secondary-light: rgb(234, 179, 8);
 
   --link-color: #10b981;
   --link-hover: #0b8a60;
@@ -50,6 +52,7 @@
   --gray-700: #aab3cc;
   --gray-800: #cdd3e1;
   --gray-900: #e6e9f0;
+  --linear-gradient: linear-gradient(180deg, #f8fafc 0%, #eef2f7 100%);
 
   --text-default: #0a0f1a;
   --text-muted: #272f43;

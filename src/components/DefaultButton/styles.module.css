@@ -23,11 +23,11 @@
 }
 
 .red {
-background: var(--error);
-color: var(--text-over-error);
+  background: var(--error);
+  color: var(--text-over-error);
 }
 
 .green {
-background: var(--primary);
-color: var(--text-over-primary);
+  background: var(--primary);
+  color: var(--text-over-primary);
 }
